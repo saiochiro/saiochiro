@@ -13,6 +13,7 @@
 <h2 align="center">⚔ THE PRISONER ⚔</h2>
 
 <p align="center">
+<b>Hey, I'm Sai!</b> 👋<br/><br/>
 <code>CLASS</code> &nbsp;Student Developer &nbsp;·&nbsp; <code>RUN</code> &nbsp;#∞ &nbsp;·&nbsp; <code>STATUS</code> &nbsp;Still escaping<br/><br/>
 🎓 High school junior &amp; <b>Running Start</b> student at <b>Bellevue College</b><br/>
 🧠 Exploring <b>Cognitive Science</b>, <b>AI</b> &amp; <b>Software Development</b><br/>
@@ -32,20 +33,20 @@
 
 | 🗡 Quest | 🏰 Biome | ⏳ When |
 |:--|:--|:--|
-| **Director of Communications** | CyberLens AI Lab | Jun – Aug 2026 |
+| **Director of Communications** | CyberLens AI Lab | Jun to Aug 2026 |
 | **Cognitive Science Student** · 24-student cohort | The Ohio State University | Jul 2026 |
 | **Software Development Student** | University of Washington | Jul 2026 |
-| **AI &amp; Cybersecurity Student** · 50-student cohort | UT Dallas | Jun – Jul 2026 |
-| **Director of Communications** | AI &amp; Data Analytics Lab | Mar – May 2026 |
+| **AI &amp; Cybersecurity Student** · 50-student cohort | UT Dallas | Jun to Jul 2026 |
+| **Director of Communications** | AI &amp; Data Analytics Lab | Mar to May 2026 |
 
 </div>
 
 <h3 align="center">🛠 Builds</h3>
 
 <p align="center">
-<b>Cobbleverse Wiki &amp; Web Platform</b> — web developer on a two-person team building the official wiki <i>(2026 – now)</i><br/>
-<b>Laptops for Mongolian Youth</b> — traveled to Mongolia to get laptops to students who didn't have them <i>(2025)</i><br/>
-<b><a href="https://github.com/saiochiro/zzz-mod-manager">ZZZ Mod Manager</a></b> — Electron + React desktop app for managing game mods
+<b>Cobbleverse Wiki &amp; Web Platform</b>: web developer on a two-person team building the official wiki <i>(2026 to now)</i><br/>
+<b>Laptops for Mongolian Youth</b>: traveled to Mongolia to get laptops to students who didn't have them <i>(2025)</i><br/>
+<b><a href="https://github.com/saiochiro/zzz-mod-manager">ZZZ Mod Manager</a></b>: Electron + React desktop app for managing game mods
 </p>
 
 <p align="center">
@@ -70,10 +71,10 @@
 <summary align="center"><b>📜 Blueprints unlocked (certifications)</b></summary>
 <br/>
 <p align="center">
-Humanities &amp; Cognitive Sciences Institute — <i>The Ohio State University</i><br/>
-AI &amp; Cyber Security Workshop — <i>UT Dallas</i><br/>
-Youth &amp; Teen: Coding in Python I — <i>University of Washington</i><br/>
-Cognitive Psychology — <i>Udemy</i>
+Humanities &amp; Cognitive Sciences Institute: <i>The Ohio State University</i><br/>
+AI &amp; Cyber Security Workshop: <i>UT Dallas</i><br/>
+Youth &amp; Teen: Coding in Python I: <i>University of Washington</i><br/>
+Cognitive Psychology: <i>Udemy</i>
 </p>
 </details>
 

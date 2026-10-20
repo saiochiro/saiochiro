@@ -109,8 +109,8 @@
   </g>
 
   <!-- title -->
-  <text class="title" x="604" y="152" text-anchor="middle" fill="#3a1a12">SAIOCHIRO</text>
-  <text class="title" x="600" y="148" text-anchor="middle">SAIOCHIRO</text>
+  <text class="title" x="604" y="152" text-anchor="middle" fill="#3a1a12">SAI</text>
+  <text class="title" x="600" y="148" text-anchor="middle">SAI</text>
   <g fill="#ff8a3d">
     <rect x="380" y="180" width="440" height="4"/>
     <rect x="596" y="174" width="8" height="16"/>
